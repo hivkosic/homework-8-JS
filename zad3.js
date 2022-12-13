@@ -1,0 +1,1 @@
+//  3.	Iz niza stringova unijetih preko konzole, izbaci sve što nije voće 
